@@ -1,0 +1,7 @@
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\bin\Debug\elso labor.exe.config
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\bin\Debug\elso labor.exe
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\bin\Debug\elso labor.pdb
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\obj\Debug\elso labor.csprojResolveAssemblyReference.cache
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\obj\Debug\elso labor.csproj.CoreCompileInputs.cache
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\obj\Debug\elso labor.exe
+C:\Users\hobor\Documents\Visual Studio 2017\Prog2\labor\elso labor\obj\Debug\elso labor.pdb
