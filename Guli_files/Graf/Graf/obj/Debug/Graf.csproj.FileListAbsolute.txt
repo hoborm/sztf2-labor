@@ -1,0 +1,6 @@
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\bin\Debug\Graf.exe.config
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\bin\Debug\Graf.exe
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\bin\Debug\Graf.pdb
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\obj\Debug\Graf.csprojResolveAssemblyReference.cache
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\obj\Debug\Graf.exe
+c:\users\gab\documents\visual studio 2015\Projects\Graf\Graf\obj\Debug\Graf.pdb

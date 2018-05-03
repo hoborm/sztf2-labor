@@ -1,0 +1,6 @@
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\bin\Debug\LancoltListaEnumerator.exe.config
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\bin\Debug\LancoltListaEnumerator.exe
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\bin\Debug\LancoltListaEnumerator.pdb
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\obj\Debug\LancoltListaEnumerator.csprojResolveAssemblyReference.cache
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\obj\Debug\LancoltListaEnumerator.exe
+c:\users\gab\documents\visual studio 2015\Projects\LancoltListaEnumerator\LancoltListaEnumerator\obj\Debug\LancoltListaEnumerator.pdb

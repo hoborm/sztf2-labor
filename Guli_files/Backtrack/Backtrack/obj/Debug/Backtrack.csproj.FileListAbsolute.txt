@@ -1,0 +1,18 @@
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\bin\Debug\Backtrack.exe.config
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\bin\Debug\Backtrack.exe
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\bin\Debug\Backtrack.pdb
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\obj\Debug\Backtrack.csprojResolveAssemblyReference.cache
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\obj\Debug\Backtrack.exe
+c:\users\gab\documents\visual studio 2015\Projects\Backtrack\Backtrack\obj\Debug\Backtrack.pdb
+E:\Backtrack\Backtrack\bin\Debug\Backtrack.exe.config
+E:\Backtrack\Backtrack\obj\Debug\Backtrack.exe
+E:\Backtrack\Backtrack\obj\Debug\Backtrack.pdb
+E:\Backtrack\Backtrack\bin\Debug\Backtrack.exe
+E:\Backtrack\Backtrack\bin\Debug\Backtrack.pdb
+E:\Backtrack\Backtrack\obj\Debug\Backtrack.csprojResolveAssemblyReference.cache
+h:\Backtrack\Backtrack\bin\Debug\Backtrack.exe.config
+h:\Backtrack\Backtrack\obj\Debug\Backtrack.exe
+h:\Backtrack\Backtrack\obj\Debug\Backtrack.pdb
+h:\Backtrack\Backtrack\bin\Debug\Backtrack.exe
+h:\Backtrack\Backtrack\bin\Debug\Backtrack.pdb
+h:\Backtrack\Backtrack\obj\Debug\Backtrack.csprojResolveAssemblyReference.cache

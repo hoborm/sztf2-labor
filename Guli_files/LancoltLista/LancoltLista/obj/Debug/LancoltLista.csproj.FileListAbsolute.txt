@@ -1,0 +1,6 @@
+c:\users\gab\documents\visual studio 2015\Projects\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe.config
+C:\Users\Gab\Documents\Visual Studio 2015\Projects\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe
+C:\Users\Gab\Documents\Visual Studio 2015\Projects\LancoltLista\LancoltLista\bin\Debug\LancoltLista.pdb
+C:\Users\Gab\Documents\Visual Studio 2015\Projects\LancoltLista\LancoltLista\obj\Debug\LancoltLista.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Documents\Visual Studio 2015\Projects\LancoltLista\LancoltLista\obj\Debug\LancoltLista.exe
+C:\Users\Gab\Documents\Visual Studio 2015\Projects\LancoltLista\LancoltLista\obj\Debug\LancoltLista.pdb
